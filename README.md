@@ -27,7 +27,7 @@ const {generatePassword} = require('@koc/generate-password');
 //import {generatePassword} from '@koc/generate-password';
 
 const password = generatePassword({
-	length: 10,
+  length: 10,
 });
 
 // t%0YA!5k#S
